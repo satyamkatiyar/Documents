@@ -1,0 +1,84 @@
+
+
+
+*******************************************************************************************
+register - seeker
+
+slide 1
+
+seeker or donor
+
+slide 2 - seeker
+
+1st tym or already reffered
+
+slide 3 - 1st tym
+
+Gender - 
+
+email id - 
+
+number - 
+
+password - 
+
+confirm pwd -
+
+Are you interested in techsupport, IT, I am comfortable with anyone.
+
+Upload cv
+
+slide 3 - already reffered
+email id who have reffered u - 
+
+
+landing page - seeker
+
+Graduation Degree -
+Graduation college - Regional college / IIT / NIIT / Others - text box
+Graduation complete Year -
+graduation Percentage / grade - 
+Post Grad degree - 
+Post Grad college - Regional college / IIT / NIIT / Others - text box
+post grad complete Year - 
+post grad Percentage / grade -
+
+class 12th board - 
+class 12th percentage - 
+Class 12th complete year - 
+class 10th board -
+class 10th percentage - 
+class 10th complete year -
+
+Certifications (if any) - text box
+Certifications title - 
+Certifications duration - number of months
+Certifications complete year month
+
+Add tags for technology in which you are looking job - 
+Ex - testing; java; tech support; veitnami tech support;
+
+*******************************************************************************************
+slide 2 -  donor
+
+Gender - 
+
+email id - 
+(Note: Verification....)
+number - 
+
+password - 
+
+confirm pwd - 
+
+Slide 3 - donor - landing page
+
+Bucket - Two - one techsupport - and other IT 
+
+top most - if donor is female - then show male else vice a versa.
+if seeker Up for game then show on top
+
+
+*******************************************************************************************
+
+
